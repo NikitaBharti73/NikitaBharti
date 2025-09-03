@@ -1,0 +1,21 @@
+customer_id,customer_name,city,hotel_id,hotel_name,booking_id,location,booking_date,stay_duration,amount_spent,status,rating
+C001,Aditi Sharma,Delhi,H001,Grand Palace,B001,Connaught,05-01-2025,3,12000,Booked,4
+C002,Raj Verma,Mumbai,H002,Sea Breeze Hotel,B002,Juhu,06-01-2025,2,8500,Cancelled,NULL
+C003,Priya Nair,Bangalore,H003,Garden View,B003,MG Road,07-01-2025,4,15000,Booked,5
+C004,Arjun Mehta,Delhi,H004,City Comfort Inn,B004,Karol Bagh,08-01-2025,1,4000,Booked,3
+C005,Kavya Rao,Hyderabad,H005,Pearl Residency,B005,Banjara,09-01-2025,2,7000,Cancelled,NULL
+C006,Mohit Singh,Mumbai,H006,Ocean View,B006,Bandra,10-01-2025,3,10000,Booked,4
+C007,Neha Gupta,Delhi,H001,Grand Palace,B007,Connaught,12-01-2025,5,20000,Booked,5
+C008,Rohit Kumar,Bangalore,H003,Garden View,B008,MG Road,13-01-2025,2,7500,Cancelled,NULL
+C009,Simran Kaur,Mumbai,H002,Sea Breeze Hotel,B009,Juhu,14-01-2025,3,11000,Booked,4
+C010,Aditya Jain,Hyderabad,H005,Pearl Residency,B010,Banjara,15-01-2025,1,3500,Booked,3
+C011,Tanvi Malhotra,Delhi,H004,City Comfort Inn,B011,Karol Bagh,16-01-2025,2,6000,Booked,4
+C012,Saurabh Das,Bangalore,H007,Silicon Stay,B012,Whitefield,17-01-2025,4,16000,Cancelled,NULL
+C013,Isha Reddy,Hyderabad,H008,Charminar Suites,B013,Hitech,18-01-2025,3,10500,Booked,5
+C014,Kunal Patel,Mumbai,H006,Ocean View,B014,Bandra,20-01-2025,2,7500,Booked,4
+C015,Meera Joshi,Delhi,H004,City Comfort Inn,B015,Karol Bagh,21-01-2025,1,3500,Cancelled,NULL
+C016,Arnav Kapoor,Bangalore,H007,Silicon Stay,B016,Whitefield,22-01-2025,5,18000,Booked,5
+C017,Riya Sen,Mumbai,H002,Sea Breeze Hotel,B017,Juhu,23-01-2025,2,8200,Booked,3
+C018,Vivek Mishra,Delhi,H001,Grand Palace,B018,Connaught,24-01-2025,4,15000,Booked,4
+C019,Ananya Iyer,Hyderabad,H008,Charminar Suites,B019,Hitech,25-01-2025,3,10800,Cancelled,NULL
+C020,Manish Yadav,Bangalore,H003,Garden View,B020,MG Road,26-01-2025,2,7000,Booked,3
