@@ -1,5 +1,5 @@
 # Travel and Tourism- Booking and Customer Insights
-![Travel and Tourism]()
+![Travel and Tourism](https://github.com/NikitaBharti73/NikitaBharti/blob/main/Travel%20and%20Tourism.png)
 
 # Used Case and Objective
 Analyse bookings to understand customer behaviour and improve services
